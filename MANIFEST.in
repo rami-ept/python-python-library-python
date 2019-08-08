@@ -1,0 +1,1 @@
+recursive-include fake-pypi-project/templates *.html
